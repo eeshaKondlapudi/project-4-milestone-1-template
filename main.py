@@ -8,7 +8,7 @@ rng_seed = 12345678
 
 random.seed(rng_seed)
 
-# Initialize pygame
+# Initialize pygame test
 pygame.init()
 
 # Screen dimensions
