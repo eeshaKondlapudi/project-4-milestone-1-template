@@ -24,7 +24,7 @@ for i in range(14):
     newColor = (R, G, B)
     COLORS.append(newColor)
 
-# Line math
+# Line math hellow
 lineTheta = random.randint(0, 11) * (math.pi/6)
 LINE_END = (WIDTH//2 + int(175*math.cos(lineTheta)), HEIGHT//2 + int(175*math.sin(lineTheta)))
 
